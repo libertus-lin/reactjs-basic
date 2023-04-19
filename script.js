@@ -38,6 +38,7 @@ const App = () => {
          console.log('Connected to network:', selectedNetwork.SSID);
          setPingResult(null);
          setSpoofingResult(null);
+         // tenang tenang
          setLocation(null);
          setConnectionTime(null);
          startNetworkInfoUpdates();
