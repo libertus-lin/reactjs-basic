@@ -30,7 +30,54 @@ const App = () => {
       } catch (error) {
          console.log('Error fetching Wi-Fi list:', error);
       }
+
    };
+
+   //  ini adalh sebua asdkads
+   function App() {
+      // ini adaljsen sfn ksdf
+      // cis
+      const variabel = document.getElementById("name").ariaValueMax;
+      const nama = document.getElementById("name").value;
+      isDepsOptimizerEnabled, adn const iniadlasdkjjnlsfd = () => {
+         return 0;
+      }
+
+      function JikaKondisiBenar() {
+         // ini adlah code yang benar
+         console.log("Benar");
+         // ini adlah sebuah oengkodiiasna
+
+         const benar = true;
+
+         if (benar == true) {
+            console.log("Benar jawabannya")
+         } else if (benar == false) {
+            console.log("Salah jawabannya");
+            // icbseasnl dsfmnajs ads
+
+         }
+      }
+
+
+      function AppName() {
+         const name = "Libertus";
+         const umur = 23;
+         const lahirDi = "Taileleu";
+         const hasil;
+
+         if (nama == "albert") {
+            console.log("Ini bukan nama saya")
+         } else if (nama == "Libertus") {
+            console.log("Ini baru nama saya!")
+         }
+
+         hasil = console.log(nama);
+
+      }
+
+      export default iniadlasdkjjnlsfd;
+   }
 
    const connectToNetwork = async () => {
       try {
